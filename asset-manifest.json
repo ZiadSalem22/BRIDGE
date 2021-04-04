@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BRIDGE/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/BRIDGE/static/js/main.958f440a.chunk.js",
-    "main.js.map": "/BRIDGE/static/js/main.958f440a.chunk.js.map",
+    "main.js": "/BRIDGE/static/js/main.4e051c07.chunk.js",
+    "main.js.map": "/BRIDGE/static/js/main.4e051c07.chunk.js.map",
     "runtime-main.js": "/BRIDGE/static/js/runtime-main.3a8be5cd.js",
     "runtime-main.js.map": "/BRIDGE/static/js/runtime-main.3a8be5cd.js.map",
     "static/js/2.c93542a4.chunk.js": "/BRIDGE/static/js/2.c93542a4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3a8be5cd.js",
     "static/js/2.c93542a4.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.958f440a.chunk.js"
+    "static/js/main.4e051c07.chunk.js"
   ]
 }
