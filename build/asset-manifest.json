@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SafeElections/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/SafeElections/static/js/main.09d2c7cc.chunk.js",
+    "main.js.map": "/SafeElections/static/js/main.09d2c7cc.chunk.js.map",
+    "runtime-main.js": "/SafeElections/static/js/runtime-main.fa020a37.js",
+    "runtime-main.js.map": "/SafeElections/static/js/runtime-main.fa020a37.js.map",
+    "static/js/2.bea40de4.chunk.js": "/SafeElections/static/js/2.bea40de4.chunk.js",
+    "static/js/2.bea40de4.chunk.js.map": "/SafeElections/static/js/2.bea40de4.chunk.js.map",
+    "static/js/3.17188ff4.chunk.js": "/SafeElections/static/js/3.17188ff4.chunk.js",
+    "static/js/3.17188ff4.chunk.js.map": "/SafeElections/static/js/3.17188ff4.chunk.js.map",
+    "index.html": "/SafeElections/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/SafeElections/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.bea40de4.chunk.js.LICENSE.txt": "/SafeElections/static/js/2.bea40de4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa020a37.js",
+    "static/js/2.bea40de4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.09d2c7cc.chunk.js"
+  ]
+}
