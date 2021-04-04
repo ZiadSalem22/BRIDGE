@@ -3,7 +3,7 @@
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-# Safe Elections: A tamper free election service based on Ethereum
+# BRIDGE : Building Resources in Democracy, Governance and Elections service based on Ethereum
 
 ## Intro
 The aim of this project is to make an application where independent and trustless elections can be held. The app has several features implemented and all bundled into one React application.
@@ -11,7 +11,7 @@ The aim of this project is to make an application where independent and trustles
 <b>The app is configured for Kovan test network.</b>
 
 ## How to participate online ?
- - Visit from desktop: [Safe Elections](https://akcgjc007.github.io/SafeElections/)
+ - Visit from desktop: [BRIDGE](https://ziadsalem22.github.io/BRIDGE/)
  - Make sure you have a metamask wallet
  - Make sure you are switched to Kovan test network
  - Make sure you have some test ethers
@@ -42,11 +42,7 @@ The aim of this project is to make an application where independent and trustles
 <img width="600" src="./__sample/2.png">
 
 ## Contributors
-<table><tr><td align="center">
-        <a href="https://github.com/akcgjc007">
-            <img src="https://avatars2.githubusercontent.com/u/56300182" width="100;" alt="anupam"/>
-            <br />
-            <sub><b>Anupam Kumar</b></sub>
-        </a>
-    </td></tr>
-</table>
+
+  GATEWAY -technectul and software solutions
+   
+
