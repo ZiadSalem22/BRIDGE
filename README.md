@@ -37,9 +37,7 @@ The aim of this project is to make an application where independent and trustles
  - `yarn compile`
  - `yarn test`
 
-## Sample
-<img width="600" src="./__sample/1.png">
-<img width="600" src="./__sample/2.png">
+
 
 ## Contributors
 
