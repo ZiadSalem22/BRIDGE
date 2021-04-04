@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ZiadSalem22/BRIDGE/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ZiadSalem22/BRIDGE/static/js/main.8e905ea0.chunk.js",
+    "main.js.map": "/ZiadSalem22/BRIDGE/static/js/main.8e905ea0.chunk.js.map",
+    "runtime-main.js": "/ZiadSalem22/BRIDGE/static/js/runtime-main.808dbb41.js",
+    "runtime-main.js.map": "/ZiadSalem22/BRIDGE/static/js/runtime-main.808dbb41.js.map",
+    "static/js/2.27c395ab.chunk.js": "/ZiadSalem22/BRIDGE/static/js/2.27c395ab.chunk.js",
+    "static/js/2.27c395ab.chunk.js.map": "/ZiadSalem22/BRIDGE/static/js/2.27c395ab.chunk.js.map",
+    "static/js/3.17188ff4.chunk.js": "/ZiadSalem22/BRIDGE/static/js/3.17188ff4.chunk.js",
+    "static/js/3.17188ff4.chunk.js.map": "/ZiadSalem22/BRIDGE/static/js/3.17188ff4.chunk.js.map",
+    "index.html": "/ZiadSalem22/BRIDGE/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ZiadSalem22/BRIDGE/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.27c395ab.chunk.js.LICENSE.txt": "/ZiadSalem22/BRIDGE/static/js/2.27c395ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.808dbb41.js",
+    "static/js/2.27c395ab.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8e905ea0.chunk.js"
+  ]
+}
