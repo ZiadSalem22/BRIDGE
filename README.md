@@ -6,7 +6,7 @@
 # BRIDGE : Building Resources in Democracy, Governance and Elections service based on Ethereum
 
 ## Intro
-The aim of this project is to make an application where independent and trustless elections can be held. The app has several features implemented and all bundled into one React application.
+The aim of this project is to make an decentralized application where independent and trustless elections can be held. The app has several features implemented and all bundled into one React application.
 
 <b>The app is configured for Kovan test network.</b>
 
